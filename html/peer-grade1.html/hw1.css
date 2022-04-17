@@ -1,0 +1,34 @@
+table{
+    border:1px solid;
+   width:500px;
+   height:300px;
+   background-color: white;
+}
+th{
+    background-color: green;
+    text-align:left;
+    color:red;
+    font-size:20px;
+    border:1px;
+}
+.col1{
+    text-align:left;
+}
+.col2{
+    text-align:center;
+}
+.col3{
+    text-align:center;
+}
+tr{
+    opacity:.8;
+}
+tr:hover{
+    opacity:.6;
+}
+td{
+    font-style:oblique;
+    font-family:'Courier New', Courier, monospace;
+    font-size:20px;
+    color:grey;
+}

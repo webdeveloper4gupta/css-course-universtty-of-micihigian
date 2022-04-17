@@ -1,0 +1,96 @@
+/* *{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin:3px;
+    padding:2px;
+}
+ #aman{
+     width:98%;
+     height:100%;
+     padding:20px;
+    background-image: url('/images/flywheel.jpg');
+    
+}
+
+
+.gupta{
+    /* background-color: red; */
+     /* width:100%;
+     height:15vh;
+     
+} */
+/* .mahajan{
+    display:inline-block;
+    margin-top:40px;
+    margin-left:50px;
+    width:150px;
+    height:40px;
+    /* padding-left:40px; */
+    /* border:2px solid #000;
+    border-radius:7px;
+    /* margin:0 auto; */
+    /* text-align:center;
+    background-color: white;
+    padding-top:10px;
+}
+.mahajan a{ 
+    */
+    /* text-decoration:none; */
+/* } */
+/* .amu{
+    background-color: red;
+    width:15%;
+    display:inline-block;
+    height:500px;
+    
+} */
+/* .suk img{
+    margin-top:10px;
+    margin-left:5px;
+}
+.sec2{
+    height:200px;
+    width:50%;
+    margin:50px;
+    margin-left:0px;
+    margin-right:450px;
+    float:right;
+} */ */ */
+/* FROM HERE TABLE DECORATION START */
+.sec3{/* table created inside this section*/
+    /* display:static; */
+     float:right;
+     margin-right:90px;
+     margin-top:-300px;
+     margin-left:-200px;
+     margin-right:200px;
+     opacity:.8;
+     /* margin-bottom:500px; */
+}
+table{
+    height:40vh;
+    width:60vw;
+}
+.table1{/* first column*/
+    text-align:left;
+    width:400px;
+    padding:10px;
+    background-color: aquamarine;
+}
+#p{ /* first row and first column*/
+    background-color: green;
+}
+#o{/* first row and second column*/
+    background-color: green;
+}
+#f{/* first row and third column*/
+    background-color: green;
+}
+.table2{
+    background-color: aquamarine;
+}
+.table3{
+    background-color: aquamarine;
+}

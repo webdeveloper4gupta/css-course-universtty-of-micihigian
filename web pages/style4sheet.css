@@ -1,0 +1,13 @@
+div{
+    color:#383838;
+    background-color:red;
+    border:solid;
+    width:1000px;
+    border-width:20px 30px;
+    border-color:orange pink;
+    margin:70px;
+    padding:60px;
+    box-sizing:content-box;
+    text-align:center;
+  
+}

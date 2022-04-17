@@ -1,0 +1,18 @@
+div{
+    color:#383838;
+    background-color: brown;
+    box-sizing:border-box;
+    display:inline-block;
+    height:150px;
+    width:40%;
+    display:scroll;
+    border:20px  solid black;
+    padding:15px;
+    margin:5px;
+    margin:0-auto;
+    margin-top:50px;
+    overflow:scroll;
+    display:table-cell;
+   /* float:left;*/
+    /*border-width:30px 50px;*/
+}

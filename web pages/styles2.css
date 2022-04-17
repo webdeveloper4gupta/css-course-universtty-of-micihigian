@@ -1,0 +1,26 @@
+h1{
+    color: #229;
+    font-size:200%;
+    font-family: courier;
+    font-style:oblique;
+    font-variant:small-caps;
+    text-align:center;
+    line-height:200%;
+}
+p{
+    color:#666666;
+    background:#383838;
+    /*font-family: courier;
+    font-variant:small-caps;*/
+}
+span{
+    display:block;
+}
+div{
+ 
+    width:30%;
+    background:pink;
+    display:inline;
+    overflow:scroll;
+
+}

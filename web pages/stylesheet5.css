@@ -1,0 +1,23 @@
+span{
+    color:red;
+    background-color:yellow;
+    height:50px;
+    width:90px;
+    display:block;
+}
+div{
+    color: orange;
+    background-color:pink;
+    height:90px;
+   width:45px;
+  display:inline-block;
+   /* float:right;*/
+   overflow:scroll;
+}
+p{
+    color:brown;
+    background-color:grey;
+    height:80px;
+    width:200px;
+    display:block;
+}
